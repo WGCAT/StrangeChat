@@ -6,7 +6,7 @@
    * 시작: 2023-11-17
    * 종료: 2023-11-22
 3. Blog
-   * https://velog.io/@syoungs/project-1
+   * https://wgcat.github.io/categories/k1
 4. 참여 인원
 
     | 이름 | 프로필 | 역할 |
